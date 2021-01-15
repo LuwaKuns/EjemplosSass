@@ -1,0 +1,34 @@
+body {
+  background-color: #f0f6fb;
+}
+
+.notifica-error {
+  position: relative;
+  text-align: center;
+  height: 600px;
+}
+.notifica-error h1 {
+  margin-top: 150px;
+  font-size: 30px;
+  font-weight: bold;
+}
+.notifica-error a {
+  text-decoration: none;
+  color: #b33f3f;
+}
+.notifica-error .imagen-404 {
+  height: 100%;
+}
+
+.navbar .container-fluid .navbar-brand {
+  color: aqua;
+}
+
+.pie-de-pagina {
+  background-color: black;
+}
+.pie-de-pagina p {
+  color: rgba(255, 255, 255, 0.959);
+}
+
+/*# sourceMappingURL=output.css.map */
